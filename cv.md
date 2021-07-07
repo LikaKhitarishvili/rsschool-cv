@@ -6,7 +6,7 @@ CV
    lia.khitarishvili@gmail.com
 3. My goal is to become on of the best Software Developer ;)
 4. Microsoft Office, HTML, CSS, JavaScript (basic), Responsive Web    
-   Design, Adobe Photoshop  
+   Design, Adobe Photoshop.
 5.  <div class="header2">
         <div class="lika">
             <ul>
